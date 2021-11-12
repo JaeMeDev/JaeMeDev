@@ -11,6 +11,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/JaeMeDev/)](https://github.com/JaeMeDev/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/JaeMeDev/)](https://github.com/JaeMeDev/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/JaeMeDev/)](https://github.com/JaeMeDev/)
+ 
 [My Blog](<https://jaeme.dev/>)
 
 #### 🐳  About me  🐳
