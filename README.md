@@ -17,8 +17,6 @@
 -  **Hobbies :** HipHop, Fashion 
 -  **My Blog :** [jaeme.dev](<https://jaeme.dev/>)
 
-![JaeMeDev github stats](https://github-readme-stats.vercel.app/api?username=JaeMeDev&show_icons=true)
-
 #### 🐳  About me  🐳
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeMeDev&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMeDev&layout=compact&height=50)](https://github.com/anuraghazra/github-readme-stats)
