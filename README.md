@@ -1,8 +1,5 @@
 <div align='center'>
  
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b7e0e2&height=280&section=header&text=JaeMeDev&fontSize=60&desc=Brrrrr!!!!!!!🤩&animation=fadeIn&descAlign=56)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeMeDev)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-jaeme0406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeme0406@gmail.com)](mailto:jaeme0406@gmail.com)
 
