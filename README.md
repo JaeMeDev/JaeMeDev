@@ -1,7 +1,5 @@
 <div align='center'>
  
-[![Gmail Badge](https://img.shields.io/badge/-jaeme0406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeme0406@gmail.com)](mailto:jaeme0406@gmail.com)
-
 [My Blog](<https://jaeme.dev/>)
 
 #### 🐯  About me 🐯
