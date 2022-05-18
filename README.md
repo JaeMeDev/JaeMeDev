@@ -17,14 +17,6 @@
 
 <br>
 
-<div align='center'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMeDev&layout=compact&height=50)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<br>
-
 <h3 align="center">🐯Me🐯</h3>
 <p align="center">
   <a href="https://maddening-verbena-cfb.notion.site/98155956b3b54436838aa6d495259c9a"><img src="https://img.shields.io/badge/Resume-blueviolet?style=flat-square&logo=Notion&logoColor=white&link=https://maddening-verbena-cfb.notion.site/98155956b3b54436838aa6d495259c9a"/></a>&nbsp
