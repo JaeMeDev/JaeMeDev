@@ -19,8 +19,7 @@
 
 <h3 align="center">🐯Me🐯</h3>
 <p align="center">
-  <a href="https://github.com/JaeMeDev/resume/blob/main/README.md"><img src="https://img.shields.io/badge/Resume-blueviolet?style=flat-square&logo=Notion&logoColor=white&link=https://github.com/JaeMeDev/resume/blob/main/README.md"/></a>&nbsp
-    <a href="https://jaeme.dev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jaeme.dev"/></a>&nbsp
+  <a href="https://jaeme.dev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jaeme.dev"/></a>&nbsp
   <a href="mailto:jaeme0406@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jaeme0406@gmail.com"/></a>
 </p>
 </div>
