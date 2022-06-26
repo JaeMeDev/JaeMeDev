@@ -21,6 +21,6 @@
 <p align="center">
   <a href="https://jaeme.dev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jaeme.dev"/></a>&nbsp
   <a href="mailto:jaeme0406@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jaeme0406@gmail.com"/></a>
-   <a href="www.linkedin.com/in/jaemedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/jaemedev"/></a>
+   <a href="https://www.linkedin.com/in/jaemedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jaemedev"/></a>
 </p>
 </div>
