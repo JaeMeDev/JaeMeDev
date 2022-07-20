@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=87CEFA&height=300&section=header&text=JaeMeDev&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20JaeMeDev%20%20&fontAlign=30&fontSize=30&textBg=true&desc=FE%20Developer&descAlign=60&descAlignY=50)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
